@@ -1,0 +1,7 @@
+python 
+ django 
+ rest api 
+ odoopython 
+ django 
+ rest api 
+ odoo
