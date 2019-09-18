@@ -1,0 +1,2 @@
+# Complete-core-python-
+The complete core python files concepts are application buliding, data types, immutable and mutable objects, string handling, reading the data from keyboard, operators, control flow statement as (contintions, blocks, loops,) , methods of string, collections as ( list, tuple, set, dictionary), functions, documentation string, parameters (Non-default, default ), arguments, return statement, global variables, local variables, recursive function invocation, lambda function or anonymous function, modules, packages, file handling, exception handling..  
