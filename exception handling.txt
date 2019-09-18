@@ -1,0 +1,20 @@
+There are 2 types of exceptions.
+1. Syntax error.
+2. run time error.
+
+1. Syntax error:- Whenever we run a python file python interpretor verify all the statement in the python file are define
+according syntax rule or not.
+as:- print("begin")
+     def myfunc():
+        print("welcome")
+        print("end")
+syntax error because function is not called..
+
+2. Run time error:- The run time error occurs at the time of execution of the program.
+Invalid input
+Hardware failures
+Memory related issues
+Inalid logic....
+
+With respect to each and every reason which causes to run time error curreponding run time error representation
+class is available in python.
