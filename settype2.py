@@ -1,0 +1,15 @@
+# opearations on set..
+x={10, 20, 30, 40, 50}
+print(x)
+x.add(60)
+print(x)
+x.remove(30)
+print(x)
+x.discard(400)
+print(x)
+y=x.copy()
+print(y)
+x.pop()
+print(x)
+x.clear()
+print(x)

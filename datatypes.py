@@ -1,0 +1,21 @@
+#python supports the following datatypes as int, float, bool, str, list, tuple. set, dict..
+a=1000
+print(a)
+print(type(a))
+print(id(a))
+b=123.123
+print(b)
+print(type(b))
+print(id(b))
+c=True
+print(c)
+print(type(c))
+print(id(c))
+d=3+4j
+print(d)
+print(type(d))
+print(id(d))
+e='prabhat'
+print(e)
+print(type(e))
+print(id(e))

@@ -1,0 +1,11 @@
+Operators:-
+          Operators are nothing but construct/ syntax, which are use to perform the operation under operants.
+          Python supports different verities of operators.
+          1. Arithmatic operator.
+          2. Comparison operator.
+          3. Logical operator.
+          4. Bitwise operator.
+          5. Assignment operator.
+          6. Special operator.
+          7. Membership operator.
+          8. Identity operator.

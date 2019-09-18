@@ -1,0 +1,21 @@
+# other opearations on set....
+x={1, 2, 3, 4, 5}
+print(x)
+y={4, 5, 6, 7, 8}
+print(y)
+print(x.union(y))
+print(x|y)
+print(y.union(x))
+print(y|x)
+print(x.intersection(y))
+print(x&y)
+print(y.intersection(x))
+print(y&x)
+print(x.difference(y))
+print(x-y)
+print(y.difference(x))
+print(y-x)
+print(x.symmetric_difference(y))
+print(x^y)
+print(y.symmetric_difference(x))
+print(y^x)

@@ -1,0 +1,22 @@
+#tuple objects can be created by using paranthisis() or by calling tuple function or
+# by assigning more then 1 value to a single vatiable.
+x=()
+print(x)
+print(type(x))
+print(len(x))
+y=tuple()
+print(y)
+print(type(y))
+print(len(y))
+z=10, 20, 30
+print(z)
+print(type(z))
+print(len(z))
+p=(10, 40, 70, 30, 20, 60)
+print(p)
+q=(1000, 123.123, 3+4j)
+print(q)
+r=(100, 200, 100, 200)
+print(r)
+print(p[2])
+print(p[-3])

@@ -1,0 +1,5 @@
+DIR concept:-
+DIR function is a pre defined function which displays all the properties which are avialable to the current module.
+Built-in attributes:-
+For every module python interpreter internally adds some attributes.
+The attributes which are added by the python interpretor are known as default attribute of a module.

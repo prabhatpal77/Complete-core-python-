@@ -1,0 +1,11 @@
+Magic method:-
+            Any method name which is starts with __ and ends with __ is known as a magic method. Magic method
+            object of a class will be executed automatically whenever corresponding event is generated.
+            __init__()
+            __del__()
+            __str__()
+            __add__()
+            for every operator corresponding magic method is defining in python.
+            When operators related magic methods are defining inside the class those operators we can apply in
+            that perticular class object.
+            Because of implementing every operator throw magic method the behaviour of the operator is dynamic.

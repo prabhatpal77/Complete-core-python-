@@ -1,0 +1,6 @@
+The variable which are declared with in the function declaration are known as parameters.
+With in the function declaration parameters are optional. We can define 3 types of parameters for functions in
+python.
+* Non-default parameters
+* Default parameters.
+* Arbittaring.

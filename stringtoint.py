@@ -1,0 +1,10 @@
+#int input...
+i=input("enter fno")
+print(type(i))
+x=int(i)
+print(type(x))
+j=input("enter sno")
+print(type(j))
+y=int(j)
+print(type(y))
+print(x+y)

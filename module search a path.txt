@@ -1,0 +1,7 @@
+Python interpretor search for the impoted module in the following location.
+1. Current working directory or main module location.
+2. Enviornment variable path.
+3. Installation dependent directory of python.
+4. With the imported module is not available in any are of the above location then python interpretor use import error.
+5. If we define __name__=="__main__" statement in any python file then it is recommended to run that file directly without
+importing that module into other modules
